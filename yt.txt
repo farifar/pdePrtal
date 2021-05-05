@@ -1,0 +1,47 @@
+https://bugs.mysql.com/bug.php?id=71226
+
+
+---------------------
+
+
+
+https://stackoverflow.com/questions/28335069/mysql-connector-net-6-9-5-install-fail
+
+
+-------------
+
+https://stackoverflow.com/questions/21260542/cannot-uninstall-mysql-connector-net-6-3-or-higher/21680659
+
+---------------
+
+
+https://stackoverflow.com/questions/16879451/mysql-data-source-not-appearing-in-visual-studio
+
+------------------------------------
+
+
+
+Delete every connector .NET folder inside the following locations:
+
+%ProgramFiles%\MySQL
+c:\Program Files (x86)\MySQL
+%ProgramData%\MySQL
+
+
+
+----------------------
+
+
+https://stackoverflow.com/questions/48412727/unable-to-install-mysql-on-windows-10-installer-hangs-indefinitely
+
+
+--------------------
+
+
+frst chang m/c config to defoult
+
+https://forums.asp.net/t/1212683.aspx?machine+config+reset+
+
+-----------
+
+ 
