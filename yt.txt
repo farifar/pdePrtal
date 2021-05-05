@@ -1,14 +1,4 @@
-https://bugs.mysql.com/bug.php?id=71226
 
-
----------------------
-
-
-
-https://stackoverflow.com/questions/28335069/mysql-connector-net-6-9-5-install-fail
-
-
--------------
 
 https://stackoverflow.com/questions/21260542/cannot-uninstall-mysql-connector-net-6-3-or-higher/21680659
 
@@ -36,6 +26,20 @@ https://stackoverflow.com/questions/48412727/unable-to-install-mysql-on-windows-
 
 
 --------------------
+
+
+
+https://bugs.mysql.com/bug.php?id=71226
+
+
+---------------------
+
+
+
+https://stackoverflow.com/questions/28335069/mysql-connector-net-6-9-5-install-fail
+
+
+-------------
 
 
 frst chang m/c config to defoult
